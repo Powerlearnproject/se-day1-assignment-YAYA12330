@@ -56,13 +56,13 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
  - maintaining and updating software to keep it functional. 
 - collaborating with other team members to ensure best practice when developing software.
  - reporting to the project manager about the progress of the software development.
- - 
+  
 **Quality Assurance Engineer** - collaborate with stakeholders to understand and clarify software requirement.
  - create development standards and procedures for the programmers to follow
  - confirm that the software meets the requirement before deployment. 
 - analyse the product to identify bugs and suggest changes to make them more efficient. 
 - develop and execute automation scripts using open source tools.
-- 
+  
 **Project Manager** - assembles and lead the software development team.
  - discuss the project and it's requirement with the client and software developers.
  - create blueprint for the project.
